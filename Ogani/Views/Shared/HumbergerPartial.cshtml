@@ -1,0 +1,60 @@
+﻿<div class="humberger__menu__overlay"></div>
+<div class="humberger__menu__wrapper">
+    <div class="humberger__menu__logo">
+        <a href="#"><img src="~/assets/images/logo.png" alt=""></a>
+    </div>
+    <div class="humberger__menu__cart">
+        <ul>
+            <li><a href="#"><i class="fa fa-heart"></i></a></li>
+            <li><a href="#"><i class="fa fa-shopping-bag"></i></a></li>
+        </ul>
+        @*<div class="header__cart__price">item: <span>$150.00</span></div>*@
+    </div>
+    <div class="humberger__menu__widget">
+        <div class="header__top__right__language">
+            <img src="~/assets/images/language.png" alt="">
+            <div>English</div>
+            <span class="arrow_carrot-down"></span>
+            <ul>
+                <li><a href="#">Spanis</a></li>
+                <li><a href="#">English</a></li>
+            </ul>
+        </div>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="header__top__right__auth">
+                <a><i class="fa fa-user-circle-o"></i> @User.Identity.Name</a>
+            </div>
+            <div class="header__top__right__auth" style="margin-left: 20px;">
+                <a asp-action="Logout" asp-controller="Account"><i class="fa fa-sign-out"></i> Logout</a>
+            </div>
+        }
+        else
+        {
+            <div class="header__top__right__auth">
+                <a asp-action="Login" asp-controller="Account"><i class="fa fa-user"></i> Login</a>
+            </div>
+        }
+    </div>
+    @*<nav class="humberger__menu__nav mobile-menu">
+        <ul>
+            <li><a href="">Home</a></li>
+            <li class="active"><a asp-controller="Shop" asp-action="Index" >Shop</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Contact</a></li>
+        </ul>
+    </nav>*@
+    <div id="mobile-menu-wrap"></div>
+    <div class="header__top__right__social">
+        <a href="#"><i class="fa fa-facebook"></i></a>
+        <a href="#"><i class="fa fa-twitter"></i></a>
+        <a href="#"><i class="fa fa-linkedin"></i></a>
+        <a href="#"><i class="fa fa-pinterest-p"></i></a>
+    </div>
+    <div class="humberger__menu__contact">
+        <ul>
+            <li><i class="fa fa-envelope"></i> ogani@gmail.com</li>
+            <li>Free Shipping for all Order of $99</li>
+        </ul>
+    </div>
+</div>

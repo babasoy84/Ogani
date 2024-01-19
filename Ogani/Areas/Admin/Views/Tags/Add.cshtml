@@ -1,0 +1,22 @@
+﻿@model TagAddViewModel
+
+@{
+    ViewData["Title"] = "Add Tag Page";
+}
+
+<div class="card">
+    <div class="card-body">
+        <div class="card-title">Add Tag</div>
+        <hr>
+        <form asp-area="Admin" asp-action="Add" asp-controller="Tags" method="post">
+            <div class="form-group">
+                <label for="input-1">Name</label>
+                <input asp-for=Name type="text" class="form-control" id="input-1" placeholder="Enter Tag Name">
+                <span asp-validation-for="Name" style="color: red"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-light px-5">Add</button>
+            </div>
+        </form>
+    </div>
+</div>

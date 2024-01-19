@@ -1,0 +1,3009 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ogani.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ogani.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\app-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-style.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pace.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\sidebar-menu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\sidebar-menu.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ae.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\af.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ag.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ai.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\al.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\am.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ao.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\aq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\as.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\at.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\aw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ax.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\az.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ba.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bb.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bd.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\be.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bi.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bo.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\br.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bs.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\by.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\bz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cd.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ch.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ci.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\co.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cx.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cy.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\cz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\de.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\dj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\dk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\dm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\do.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\dz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ec.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ee.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\eg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\eh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\er.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\es-ct.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\es-ct.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\es.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\et.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\eu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\fi.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\fj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\fk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\fm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\fo.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ga.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gd.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gi.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gp.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gs.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\gy.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\hk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\hm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\hn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\hr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ht.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\hu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\id.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ie.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\il.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\im.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\io.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\iq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ir.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\je.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\jm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\jo.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\jp.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ke.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\kg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\kh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ki.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\km.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\kn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\kp.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\kr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\kw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ky.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\kz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\la.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\lb.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\lc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\li.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\lk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\lr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ls.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\lt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\lu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\lv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ly.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ma.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\md.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\me.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ml.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mo.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mp.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ms.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mx.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\my.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\mz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\na.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\nc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ne.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\nf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ng.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ni.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\nl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\no.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\np.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\nr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\nu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\om.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pa.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pe.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ph.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ps.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\pw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\py.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\qa.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\re.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ro.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\rs.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\rw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sa.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sb.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sd.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\se.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\si.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\so.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ss.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\st.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sx.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sy.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\sz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\td.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\th.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\to.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\tz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ua.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ug.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\un.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\un.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\uz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\va.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\vc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ve.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\vg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\vi.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\vn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\vu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\wf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ws.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\ye.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\yt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\za.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\zm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\1x1\\zw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\1x1\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ae.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\af.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ag.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ai.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\al.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\am.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ao.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\aq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\as.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\at.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\aw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ax.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\az.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ba.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bb.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bd.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\be.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bi.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bo.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\br.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bs.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\by.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\bz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cd.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ch.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ci.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\co.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cx.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cy.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\cz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\de.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\dj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\dk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\dm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\do.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\dz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ec.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ee.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\eg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\eh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\er.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\es-ct.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\es-ct.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\es.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\et.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\eu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\eu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\fi.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\fj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\fk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\fm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\fo.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ga.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gd.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gi.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gp.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gs.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\gy.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\hk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\hm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\hn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\hr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ht.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\hu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\id.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ie.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\il.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\im.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\io.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\iq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ir.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\je.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\jm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\jo.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\jp.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ke.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\kg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\kh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ki.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\km.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\kn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\kp.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\kr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\kw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ky.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\kz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\la.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\lb.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\lc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\li.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\lk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\lr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ls.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\lt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\lu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\lv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ly.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ma.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\md.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\me.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ml.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mo.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mp.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mq.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ms.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mx.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\my.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\mz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\na.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\nc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ne.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\nf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ng.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ni.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\nl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\no.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\np.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\nr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\nu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\om.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pa.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pe.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ph.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ps.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\pw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\py.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\qa.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\re.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ro.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\rs.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\rw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sa.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sb.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sd.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\se.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sh.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\si.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\so.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ss.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\st.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sx.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sy.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\sz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\td.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\th.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tj.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tk.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tl.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\to.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\tz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ua.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ug.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\un.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\un.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\uz.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\va.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\vc.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ve.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\vg.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\vi.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\vn.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\vu.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\wf.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ws.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\ye.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\yt.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\za.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\zm.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\flags\\4x3\\zw.svg",
+      "PackagePath": "staticwebassets\\assets\\flags\\4x3\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\bg-themes\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\bg-themes\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\bg-themes\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\bg-themes\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\bg-themes\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\bg-themes\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\d85d428b-153a-4896-9731-4855936cdc5a_BMW_X6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\d85d428b-153a-4896-9731-4855936cdc5a_BMW_X6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\gallery\\cd-icon-navigation.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\cd-icon-navigation.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\language.png",
+      "PackagePath": "staticwebassets\\assets\\images\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\payment-item.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\angular-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\angular-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\bootstrap-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\bootstrap-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\cd-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\cd-icon-location.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\cd-icon-location.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\cd-icon-movie.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\cd-icon-movie.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\cd-icon-picture.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\cd-icon-picture.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\css-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\css-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\html5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\html5.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\images\\timeline\\react.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\timeline\\react.svg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\app-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app-script.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\main_test.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main_test.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\js\\sidebar-menu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sidebar-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\Chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\Chart.js\\chartjs-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Chart.js\\chartjs-script.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\css\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\fullcalendar.print.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\css\\fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\fullcalendar.print.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\js\\fullcalendar-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\fullcalendar-custom-script.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\fullcalendar\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\jquery.easy-pie-chart\\easy-pie-chart.init.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery.easy-pie-chart\\easy-pie-chart.init.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\jquery.easy-pie-chart\\easypiechart.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery.easy-pie-chart\\easypiechart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\jquery.easy-pie-chart\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery.easy-pie-chart\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\simplebar\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\js\\simplebar.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\sparkline-charts\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\sparkline-charts\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\plugins\\sparkline-charts\\sparkline-chart-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\sparkline-charts\\sparkline-chart-script.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_shop-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_shop-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_shoping-cart.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_shoping-cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\assets\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\07b34170-3a50-45fb-b6ba-508393da2635_2023 ASUS ROG Strix SCAR 16.png",
+      "PackagePath": "staticwebassets\\images\\07b34170-3a50-45fb-b6ba-508393da2635_2023 ASUS ROG Strix SCAR 16.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\1286d5c7-9663-4a9c-88de-059216d08a33_BMW_X6.jpg",
+      "PackagePath": "staticwebassets\\images\\1286d5c7-9663-4a9c-88de-059216d08a33_BMW_X6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\130e203d-c077-4f36-809a-a8b8039e33e8_Lenovo V15 G3 IAP Nobacklit(Sayt) (2)-1000x832.png",
+      "PackagePath": "staticwebassets\\images\\130e203d-c077-4f36-809a-a8b8039e33e8_Lenovo V15 G3 IAP Nobacklit(Sayt) (2)-1000x832.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\16a57ba0-c59b-4057-9805-f618055ff0fd_Iphone_14_Pro_Max.png",
+      "PackagePath": "staticwebassets\\images\\16a57ba0-c59b-4057-9805-f618055ff0fd_Iphone_14_Pro_Max.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\1a7ba5f1-6d97-404e-b647-5d53c2c917ec_ASUS TUF Gaming A15.png",
+      "PackagePath": "staticwebassets\\images\\1a7ba5f1-6d97-404e-b647-5d53c2c917ec_ASUS TUF Gaming A15.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\27e74c45-4fa9-43da-944a-b48ec8592ffd_ASUS ROG Zephyrus G15.png",
+      "PackagePath": "staticwebassets\\images\\27e74c45-4fa9-43da-944a-b48ec8592ffd_ASUS ROG Zephyrus G15.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\32471692-4c1e-49ad-833f-3320a118faba_ASUS Zenbook Pro 16X OLED.png",
+      "PackagePath": "staticwebassets\\images\\32471692-4c1e-49ad-833f-3320a118faba_ASUS Zenbook Pro 16X OLED.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\3b8e81d8-186e-4233-a122-ff88aa595b3b_ASUS Zenbook Pro 16X OLED.png",
+      "PackagePath": "staticwebassets\\images\\3b8e81d8-186e-4233-a122-ff88aa595b3b_ASUS Zenbook Pro 16X OLED.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\6eca27e8-f0b5-41a5-bff6-c65987d88e7a_Iphone_X.png",
+      "PackagePath": "staticwebassets\\images\\6eca27e8-f0b5-41a5-bff6-c65987d88e7a_Iphone_X.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\79017e0c-ecd2-45c3-8481-6907b9ee5920_download.jpeg",
+      "PackagePath": "staticwebassets\\images\\79017e0c-ecd2-45c3-8481-6907b9ee5920_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\790d5950-013d-454f-94cd-f0137ff3dc6b_Iphone_14_Pro_Max.png",
+      "PackagePath": "staticwebassets\\images\\790d5950-013d-454f-94cd-f0137ff3dc6b_Iphone_14_Pro_Max.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\7ed437f2-4c2b-4ec3-8c07-120241b8815b_ASUS ROG Zephyrus G15.png",
+      "PackagePath": "staticwebassets\\images\\7ed437f2-4c2b-4ec3-8c07-120241b8815b_ASUS ROG Zephyrus G15.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\7f781cd0-c28b-463a-8dfc-a592664c4699_2023 ASUS ROG Strix G18.png",
+      "PackagePath": "staticwebassets\\images\\7f781cd0-c28b-463a-8dfc-a592664c4699_2023 ASUS ROG Strix G18.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\86defc72-d999-4298-b8aa-63834486ae14_2023 ASUS ROG Strix G18.png",
+      "PackagePath": "staticwebassets\\images\\86defc72-d999-4298-b8aa-63834486ae14_2023 ASUS ROG Strix G18.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\8e5c894c-949b-42ff-b534-43c7c4520bcf_Iphone_X.png",
+      "PackagePath": "staticwebassets\\images\\8e5c894c-949b-42ff-b534-43c7c4520bcf_Iphone_X.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\96a7659a-6686-4ca2-bf6d-e00ebca3af40_ASUS Zenbook Pro 16X OLED.png",
+      "PackagePath": "staticwebassets\\images\\96a7659a-6686-4ca2-bf6d-e00ebca3af40_ASUS Zenbook Pro 16X OLED.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\9996a3d8-30bb-4ae2-9440-df3a840513af_Iphone_X.png",
+      "PackagePath": "staticwebassets\\images\\9996a3d8-30bb-4ae2-9440-df3a840513af_Iphone_X.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\ac608f05-ec87-4d04-a8c8-eaa556cfbfba_ASUS ROG Zephyrus G15.png",
+      "PackagePath": "staticwebassets\\images\\ac608f05-ec87-4d04-a8c8-eaa556cfbfba_ASUS ROG Zephyrus G15.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\b29ed5d8-4e98-4d8b-bbd2-485451b03dff_Lenovo V15 G3 IAP Nobacklit(Sayt) (2)-1000x832.png",
+      "PackagePath": "staticwebassets\\images\\b29ed5d8-4e98-4d8b-bbd2-485451b03dff_Lenovo V15 G3 IAP Nobacklit(Sayt) (2)-1000x832.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\b589c31e-68f9-400a-9f0b-79e06123ce64_BMW_X6.jpg",
+      "PackagePath": "staticwebassets\\images\\b589c31e-68f9-400a-9f0b-79e06123ce64_BMW_X6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\c6457de2-7e55-4ec8-b2fa-3c63ec1eb3fc_Iphone_14_Pro_Max.png",
+      "PackagePath": "staticwebassets\\images\\c6457de2-7e55-4ec8-b2fa-3c63ec1eb3fc_Iphone_14_Pro_Max.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\c6c5c211-d05f-4138-9692-27a1e7d194e8_download.jpeg",
+      "PackagePath": "staticwebassets\\images\\c6c5c211-d05f-4138-9692-27a1e7d194e8_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\c952e566-d9e2-45f9-81eb-9047705c5086_Iphone_X.png",
+      "PackagePath": "staticwebassets\\images\\c952e566-d9e2-45f9-81eb-9047705c5086_Iphone_X.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\ca943956-c902-456d-8181-1d3815ebfc08_Iphone_14_Pro_Max.png",
+      "PackagePath": "staticwebassets\\images\\ca943956-c902-456d-8181-1d3815ebfc08_Iphone_14_Pro_Max.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\cf31c197-901a-4429-a933-ad9405b0d5a9_2023 ASUS ROG Strix G18.png",
+      "PackagePath": "staticwebassets\\images\\cf31c197-901a-4429-a933-ad9405b0d5a9_2023 ASUS ROG Strix G18.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\d0620e50-b51d-4a16-a792-89eedebb84ac_Iphone_14_Pro_Max.png",
+      "PackagePath": "staticwebassets\\images\\d0620e50-b51d-4a16-a792-89eedebb84ac_Iphone_14_Pro_Max.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\d3d813b0-e117-4265-a4b2-7e3275197ced_ASUS Zenbook Pro 16X OLED.png",
+      "PackagePath": "staticwebassets\\images\\d3d813b0-e117-4265-a4b2-7e3275197ced_ASUS Zenbook Pro 16X OLED.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\de648f7c-16a2-4d6d-88d9-1686e70174ba_2023 ASUS ROG Strix G18.png",
+      "PackagePath": "staticwebassets\\images\\de648f7c-16a2-4d6d-88d9-1686e70174ba_2023 ASUS ROG Strix G18.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\deb98d7d-a76a-4081-aea3-4f4bc5afe225_ASUS Zenbook Pro 16X OLED.png",
+      "PackagePath": "staticwebassets\\images\\deb98d7d-a76a-4081-aea3-4f4bc5afe225_ASUS Zenbook Pro 16X OLED.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\e68340e4-5406-41d5-850b-482c8be14f8e_Lenovo V15 G3 IAP Nobacklit(Sayt) (2)-1000x832.png",
+      "PackagePath": "staticwebassets\\images\\e68340e4-5406-41d5-850b-482c8be14f8e_Lenovo V15 G3 IAP Nobacklit(Sayt) (2)-1000x832.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\f49c7dee-6bf5-4403-8eea-b7f581abe3f6_Iphone_X.png",
+      "PackagePath": "staticwebassets\\images\\f49c7dee-6bf5-4403-8eea-b7f581abe3f6_Iphone_X.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\f4c33344-9f07-4f76-9c81-b544ec51409e_Iphone_X.png",
+      "PackagePath": "staticwebassets\\images\\f4c33344-9f07-4f76-9c81-b544ec51409e_Iphone_X.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\images\\fb4cccdf-9b0f-4908-a634-ccc3ae3c1c9c_2023 ASUS ROG Strix G18.png",
+      "PackagePath": "staticwebassets\\images\\fb4cccdf-9b0f-4908-a634-ccc3ae3c1c9c_2023 ASUS ROG Strix G18.png"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\babas\\OneDrive\\Documents\\Projects\\Ogani\\Ogani\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ogani.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ogani.props",
+      "PackagePath": "build\\Ogani.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ogani.props",
+      "PackagePath": "buildMultiTargeting\\Ogani.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ogani.props",
+      "PackagePath": "buildTransitive\\Ogani.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

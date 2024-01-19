@@ -1,0 +1,66 @@
+﻿@model ProductUpdateViewModel
+
+@{
+    ViewData["Title"] = "Update Product Page";
+}
+
+<div class="card">
+    <div class="card-body">
+        <div class="card-title">Update Product</div>
+        <hr>
+        <form asp-area="Admin" asp-action="Update" asp-controller="Products" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="input-1">Name</label>
+                <input asp-for=Name type="text" class="form-control" id="input-1" placeholder="Enter Product Name"/>
+                <span asp-validation-for="Name" style="color: red"></span>
+            </div>
+            <div class="form-group">
+                <label for="input-2">Description</label>
+                <input asp-for=Description type="text" class="form-control" id="input-2" placeholder="Enter Product Description">
+                <span asp-validation-for="Description" style="color: red"></span>
+            </div>
+            <div class="form-group">
+                <label for="input-3">Price</label>
+                <input asp-for=Price type="text" class="form-control" id="input-3" placeholder="Enter Product Price">
+                <span asp-validation-for="Price" style="color: red"></span>
+            </div>
+            <div class="form-group">
+                <label for="input-4">Category</label>
+                <select asp-for="CategoryId" asp-items=@ViewBag.Categories class="form-control" id="input-4" placeholder="Select Product Category"></select>
+                <span asp-validation-for="CategoryId" style="color: red"></span>
+            </div>
+            <div class="form-group">
+                <label for="input-4">Tags</label> <br />
+                <select asp-items=@ViewBag.Tags multiple class="tags" name="tags" class="form-control" id="input-4"></select> <br />
+                <span asp-validation-for="Tags" style="color: red"></span>
+            </div>
+            <div class="form-group">
+                <label for="input-5">Image</label>
+                <input type="file" asp-for=ImageUrl accept=".jpg, .jpeg, .png" class="form-control" id="input-5" placeholder="Product Image">
+                <span asp-validation-for="ImageUrl" style="color: red"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-light px-5">Update</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/lib/chosen/chosen.jquery.js"></script>
+
+    <script>
+        $(".tags").chosen();
+
+        $(".tags").on('change', function (event, el) {
+            var selected_element = $(".tags option:contains(" + el.selected + ")");
+            var selected_value = selected_element.val();
+            var parent_optgroup = selected_element.closest('optgroup').attr('label');
+            var parent_optgroup_class = selected_element.closest('optgroup').attr('class');
+            $(".search-choice:last > span").css("background-color", parent_optgroup_class);
+            selected_element.text(parent_optgroup + ' - ' + selected_value);
+
+            //$(selected_element).addClass(`${parent_optgroup_class}`);
+        });
+    </script>
+}

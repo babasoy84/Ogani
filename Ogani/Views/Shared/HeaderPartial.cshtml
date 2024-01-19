@@ -1,0 +1,69 @@
+﻿<header style="margin-bottom: 40px;" class="header">
+    <div class="header__top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="header__top__left">
+                        <ul>
+                            <li><i class="fa fa-envelope"></i> ogani@gmail.com</li>
+                            <li>Free Shipping for all Order of $99</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="header__top__right">
+                        <div class="header__top__right__social">
+                            <a><i class="fa fa-facebook"></i></a>
+                            <a><i class="fa fa-twitter"></i></a>
+                            <a><i class="fa fa-linkedin"></i></a>
+                            <a><i class="fa fa-pinterest-p"></i></a>
+                        </div>
+                        <div class="header__top__right__language">
+                            <img src="~/assets/images/language.png" alt="">
+                            <div>English</div>
+                            <span class="arrow_carrot-down"></span>
+                            <ul>
+                                <li><a>Spanis</a></li>
+                                <li><a>English</a></li>
+                            </ul>
+                        </div>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <div class="header__top__right__auth">
+                                <a><i class="fa fa-user-circle-o"></i> @User.Identity.Name</a>
+                            </div>
+                            <div class="header__top__right__auth" style="margin-left: 20px;">
+                                <a asp-action="Logout" asp-controller="Account"><i class="fa fa-sign-out"></i> Logout</a>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="header__top__right__auth">
+                                <a asp-action="Login" asp-controller="Account"><i class="fa fa-user"></i> Login</a>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="header__logo">
+                    <a><img src="~/assets/images/logo.png" alt=""></a>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="header__cart">
+                    <ul>
+                        <li><a asp-action="index" asp-controller="order"><i class="fa fa-shopping-bag"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="humberger__open">
+            <i class="fa fa-bars"></i>
+        </div>
+    </div>
+</header>

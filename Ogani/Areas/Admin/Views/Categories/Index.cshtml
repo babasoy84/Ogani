@@ -1,0 +1,60 @@
+﻿@model List<CategoryIndexViewModel>
+
+@{
+    ViewData["Title"] = "Categories Page";
+}
+
+<div class="row">
+    <div class="col-12 col-lg-12">
+        <div class="card">
+            <div class="card-header">
+                Categories
+                <div class="card-action">
+                    <div class="dropdown">
+                        <a href="javascript:void();" class="dropdown-toggle dropdown-toggle-nocaret" data-toggle="dropdown">
+                            <i class="icon-options"></i>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <a class="dropdown-item" asp-controller="Categories" asp-action="Add" asp-area="Admin">Add Category</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table align-items-center table-flush table-borderless">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Products Count</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var product in Model)
+                        {
+                            <tr>
+                                <td>@product.Id</td>
+                                <td>@product.Name</td>
+                                <td>@product.ProductCount</td>
+                                <td style="padding: 12px 5px 0px 5px">
+                                    <form asp-action="Update" asp-controller="Categories" asp-area="Admin" asp-route-id="@product.Id" method="get">
+                                        <div class="form-group">
+                                            <button type="submit" class="btn btn-light px-5">Update</button>
+                                        </div>
+                                    </form>
+                                </td>
+                                <td style="padding: 12px 5px 0px 3px">
+                                    <form asp-action="Delete" asp-controller="Categories" asp-area="Admin" asp-route-id="@product.Id" method="post">
+                                        <div class="form-group">
+                                            <button type="submit" class="btn btn-light px-5">Delete</button>
+                                        </div>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

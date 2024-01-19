@@ -1,0 +1,203 @@
+﻿@model IPagedList<ShopViewModel>
+
+@{
+    ViewData["title"] = "Shop";
+}
+
+<section class="hero hero-normal">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="hero__categories">
+                    <div class="hero__categories__all">
+                        <i class="fa fa-bars"></i>
+                        <span>All departments</span>
+                    </div>
+                    <ul>
+                        @foreach (var category in ViewBag.Categories)
+                        {
+                            <li><a value="@category.Id">@category.Name</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-9">
+                <div class="hero__search">
+                    <div class="hero__search__form">
+                        <form onclick="null">
+                            <div class="hero__search__categories">
+                                All Categories
+                                <span class="arrow_carrot-down"></span>
+                            </div>
+                            <input id="searchInput" type="text" placeholder="What do yo u need?" />
+                            <button id="searchButton" class="site-btn">SEARCH</button>
+                        </form>
+                    </div>
+                    <div class="hero__search__phone">
+                        <div class="hero__search__phone__icon">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="hero__search__phone__text">
+                            <h5>+994 50 568 36 24</h5>
+                            <span>support 24/7 time</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="product spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-5">
+                <div class="sidebar">
+                    <div class="sidebar__item">
+                        <h4>Categories</h4>
+                        <ul>
+                            @foreach (var category in ViewBag.Categories)
+                            {
+                                <li><input type="checkbox" name="selectedItems" value="@category.Id" @(ViewBag.SelectedCategories != null && ViewBag.SelectedCategories?.Contains(category.Id.ToString()) ? "checked" : "") /> @category.Name</li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="sidebar__item">
+                        <h4>Price</h4>
+                        <div class="price-range-wrap">
+                            <div class="price-range ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"
+                                 data-min="@ViewBag.MinPrice" data-max="@ViewBag.MaxPrice">
+                                <div class="ui-slider-range ui-corner-all ui-widget-header"></div>
+                                <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+                                <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+                            </div>
+                            <div class="range-slider">
+                                <div class="price-input">
+                                    <input type="text" id="minamount" name="minamount" value="@ViewBag.SelectedMinPrice">
+                                    <input type="text" id="maxamount" name="maxamount" value="@ViewBag.SelectedMaxPrice">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button id="filterButton" type="submit" class="site-btn">Filter</button>
+                </div>
+            </div>
+            <div id="products" class="col-lg-9 col-md-7">
+                @if (Model == null || Model.Count == 0)
+                {
+                    <partial id="productsPartial" name="~/Views/Shop/NotFoundPartial.cshtml" />
+                }
+                else
+                {
+                    <partial id="productsPartial" name="~/Views/Shop/ProductsPartial.cshtml" model="@Model" />
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        function getSelectedCategories() {
+            return $('input[name="selectedItems"]:checked').map(function () {
+                return $(this).val();
+            }).get();
+        }
+
+        $(document).ready(function () {
+
+            $('#filterButton').click(function () {
+                const selectedCategories = getSelectedCategories();
+                const sortOption = $('#sortSelect').val();
+                const minPrice = $('#minamount').val();
+                const maxPrice = $('#maxamount').val();
+                const searchText = $('#searchInput').val().trim();
+                const url = '@Url.Action("ProductsPartial", "Shop")' + '?selectedCategories=' + selectedCategories + '&minPrice=' + minPrice + '&maxPrice=' + maxPrice + '&page=1' + '&sortOption=' + sortOption + '&searchText=' + encodeURIComponent(searchText);
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    success: function (result) {
+                        $('#products').html(result);
+                    }
+                });
+            });
+
+            $('#products').on('change', '#sortSelect', function () {
+                const selectedCategories = getSelectedCategories();
+                const sortOption = $('#sortSelect').val();
+                const minPrice = $('#minamount').val();
+                const maxPrice = $('#maxamount').val();
+                const searchText = $('#searchInput').val().trim();
+                const url = '@Url.Action("ProductsPartial", "Shop")' + '?selectedCategories=' + selectedCategories + '&minPrice=' + minPrice + '&maxPrice=' + maxPrice + '&page=1' + '&sortOption=' + sortOption + '&searchText=' + encodeURIComponent(searchText);
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    success: function (result) {
+                        $('#products').html(result);
+                    }
+                });
+            });
+
+            $('#products').on('click', '#paginationButton', function () {
+                console.log("hakuna");
+                const selectedCategories = getSelectedCategories();
+                const sortOption = $('#sortSelect').val();
+                const minPrice = $('#minamount').val();
+                const maxPrice = $('#maxamount').val();
+                const searchText = $('#searchInput').val().trim();
+                const value = $(this).text();
+                const url = '@Url.Action("ProductsPartial", "Shop")' + '?selectedCategories=' + selectedCategories + '&minPrice=' + minPrice + '&maxPrice=' + maxPrice + '&page=' + value + '&sortOption=' + sortOption + '&searchText=' + encodeURIComponent(searchText);
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    success: function (result) {
+                        $('#products').html(result);
+                    }
+                });
+            });
+
+            $('#searchButton').click(function () {
+                const selectedCategories = getSelectedCategories();
+                const sortOption = $('#sortSelect').val();
+                const minPrice = $('#minamount').val();
+                const maxPrice = $('#maxamount').val();
+                const searchText = $('#searchInput').val().trim();
+                const url = '@Url.Action("ProductsPartial", "Shop")' + '?selectedCategories=' + selectedCategories + '&minPrice=' + minPrice + '&maxPrice=' + maxPrice + '&page=1' + '&sortOption=' + sortOption + '&searchText=' + encodeURIComponent(searchText);
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    success: function (result) {
+                        $('#products').html(result);
+                    }
+                });
+            });
+
+            $('form').on('submit', function (event) {
+                event.preventDefault();
+                // Your form submission code here
+            });
+
+            $('#products').on('click', '.addOrder', function () {
+                const selectedCategories = getSelectedCategories();
+                const sortOption = $('#sortSelect').val();
+                const minPrice = $('#minamount').val();
+                const maxPrice = $('#maxamount').val();
+                const searchText = $('#searchInput').val().trim();
+                const productId = $(this).attr('id');
+                const url = '@Url.Action("AddOrder", "Shop")' + '?selectedCategories=' + selectedCategories + '&minPrice=' + minPrice + '&maxPrice=' + maxPrice + '&page=1' + '&sortOption=' + sortOption + '&searchText=' + encodeURIComponent(searchText) + '&productId=' + productId
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    success: function (result) {
+                        $('#products').html(result);
+                    }
+                });
+            });
+        });
+    </script>
+}

@@ -1,0 +1,71 @@
+﻿@model List<OrderViewModel>
+
+@{
+    ViewData["title"] = "Order";
+}
+
+@if (Model == null || Model.Count == 0)
+{
+    <partial id="emptyOrderPartial" name="~/Views/Order/EmptyOrderPartial.cshtml" />
+}
+else
+{
+    <section id="ordersContainer" class="shoping-cart spad">
+        <partial id="ordersPartial" name="~/Views/Order/OrdersPartial.cshtml" model="@Model" />
+    </section>
+}
+
+@section Scripts {
+    <script>
+        
+        $(document).ready(function () {
+
+            $('form').on('submit', function (event) {
+                event.preventDefault();
+                // Your form submission code here
+            });
+
+            var proQty = $('.pro-qty');
+            $('#ordersContainer').on('click', '.qtybtn', function () {
+                var $button = $(this);
+                var oldValue = $button.parent().find('input').val();
+                if ($button.hasClass('inc')) {
+                    var newVal = parseFloat(oldValue) + 1;
+                } else {
+                    // Don't allow decrementing below zero
+                    if (oldValue > 1) {
+                        var newVal = parseFloat(oldValue) - 1;
+                    } else {
+                        newVal = 1;
+                    }
+                }
+                $button.parent().find('input').val(newVal);
+                const productQuantity = parseFloat($button.parent().find('input').val());
+                const productId = $button.attr('id');
+                const url = '@Url.Action("UpdateOrder", "Order")' + '?productId=' + productId + '&productQuantity=' + productQuantity;
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    success: function (result) {
+                        $('#ordersContainer').html(result);
+                    }
+                });
+            });
+
+            $('#ordersContainer').on('click', '.icon_close', function () {
+                var $button = $(this);
+                const orderModelId = $button.attr('id');
+                const url = '@Url.Action("DeleteOrderModel", "Order")' + '?orderModelId=' + orderModelId;
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    success: function (result) {
+                        $('#ordersContainer').html(result);
+                    }
+                });
+            });
+        });
+    </script>
+}
